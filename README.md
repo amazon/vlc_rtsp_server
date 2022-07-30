@@ -1,3 +1,5 @@
+[![Docker](https://github.com/amazon/vlc_rtsp_server/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/amazon/vlc_rtsp_server/actions/workflows/docker-publish.yml)
+
 # simple RTSP server based on cvlc
 
 infinitely streams files from /video volume over RTSP protocol
